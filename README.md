@@ -1,27 +1,18 @@
 # WhaleProject
 
-
 This project aims to visualize gray and blue whale sightings along the West Coast and how they intersect with global shipping density.
 
-There are three .ipynb files. They each generate a folium map that is display in my website blog. 
+There are three .ipynb files. They each generate a folium map that is displayed in my website blog. 
 
+## Usage:
+Run each .ipynb script to generate the map visualization. You may need to download the file to trust the notebook which will then show the map.
 
-The code loads gray and blue whale data from CSV files and creates a map using Folium. The map has two separate layers for each month of gray and blue whale data, respectively. Each whale sighting is represented by a circle marker on the map. In addition, the code creates a layer for reroute recommendations, which are represented by orange lines on the map.
-
-
-Usage:
-
-Run each .ipynb script to generate the map visualization. You may need to 
-
-Data
-The whale sighting data was obtained from the Ocean Biogeographic Information System (OBIS) and the Marine Geospatial Ecology Lab (MGEL) at Duke University.
+## Data:
+The whale sighting data was obtained from the Ocean Biogeographic Information System (OBIS) and the Marine Geospatial Ecology Lab (MGEL) at Duke University. [ai/size-limit](https://github.com/ai/size-limit#readme)
 The Global Shipping Density was obtained from the World Bank
 
-License
+## License:
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
 
 # Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of awesome READMEs
