@@ -8,7 +8,7 @@ There are three .ipynb files. They each generate a folium map that is displayed 
 Run each .ipynb script to generate the map visualization. You may need to download the file to trust the notebook which will then show the map.
 
 ## Data:
-The whale sighting data was obtained from the Ocean Biogeographic Information System (OBIS) and the Marine Geospatial Ecology Lab (MGEL) at Duke University. [ai/size-limit](https://github.com/ai/size-limit#readme)
+The whale sighting data was obtained from the Ocean Biogeographic Information System (OBIS) and the Marine Geospatial Ecology Lab (MGEL) at Duke University. [OBIS](https://seamap.env.duke.edu/)
 The Global Shipping Density was obtained from the World Bank
 
 ## License:
