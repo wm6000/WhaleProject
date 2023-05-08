@@ -2,7 +2,7 @@
 
 This project aims to visualize gray and blue whale sightings along the West Coast and how they intersect with global shipping density.
 
-There are three .ipynb files. They each generate a folium map that is displayed in my website blog. 
+There are three .ipynb files. They each generate a folium map that is displayed in my website blog: https://willswebsite.herokuapp.com/whales
 
 ## Usage:
 Run each .ipynb script to generate the map visualization. You may need to download the file to trust the notebook which will then show the map.
