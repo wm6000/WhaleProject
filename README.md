@@ -10,12 +10,11 @@ I am interested in whales and this project was a great way to learn more about t
 2. How do Gray and Blue Whales intersect with global shipping routes?
 3. How do Gray whales intersect with global shipping routes depending on the month?
 
-## Usage:
-The code should run with no issues using Python versions 3.*.
 
 
+## Website
 
-There are three .ipynb files. They each generate a folium map that are displayed in my website blog: https://willswebsite.herokuapp.com/whales
+There is one .ipynb file. It generates 3 maps that are displayed in my website blog: https://willswebsite.herokuapp.com/whales
 
 ## Installation:
 Dependencies:
@@ -32,7 +31,7 @@ Dependencies:
 
 
 ## Usage:
-Run each .ipynb script to generate the map visualization. You may need to download the file to trust the notebook which will then show the map.
+Run the .ipynb script to generate the map visualizations. You may need to download the file to trust the notebook which will then show the map.
 
 ## Data:
 The whale sighting data was obtained from the Ocean Biogeographic Information System (OBIS) and the Marine Geospatial Ecology Lab (MGEL) at Duke University: [OBIS](https://seamap.env.duke.edu/)
