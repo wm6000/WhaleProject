@@ -14,7 +14,7 @@ I am interested in whales and this project was a great way to learn more about t
 
 ## Website
 
-There is one .ipynb file. It generates 3 maps that are displayed in my website blog: https://willswebsite.herokuapp.com/whales
+There is one .ipynb file(Whale_Notebook.ipynb). It generates 3 maps that are displayed in my website blog: https://willswebsite.herokuapp.com/whales
 
 ## Installation:
 Dependencies:
@@ -31,7 +31,7 @@ Dependencies:
 
 
 ## Usage:
-Run the .ipynb script to generate the map visualizations. You may need to download the file to trust the notebook which will then show the map.
+Run the Whale_Notebook.ipynb script to generate the map visualizations. You may need to download the file to trust the notebook which will then show the map.
 
 ## Data:
 The whale sighting data was obtained from the Ocean Biogeographic Information System (OBIS) and the Marine Geospatial Ecology Lab (MGEL) at Duke University: [OBIS](https://seamap.env.duke.edu/)
