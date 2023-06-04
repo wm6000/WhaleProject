@@ -2,6 +2,14 @@
 
 This project aims to visualize gray and blue whale sightings along the West Coast and how they intersect with global shipping density.
 
+## Project Motivation
+
+I am interested in whales and this project was a great way to learn more about them. 
+
+1. How do shipping routes intersect with whale habitat?
+2. How do Gray and Blue Whales intersect with global shipping routes?
+3. How do Gray whales intersect with global shipping routes depending on the month?
+
 ## Usage:
 The code should run with no issues using Python versions 3.*.
 
