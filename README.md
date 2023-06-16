@@ -6,10 +6,9 @@ This project aims to visualize gray and blue whale sightings along the West Coas
 
 I am interested in whales and this project was a great way to learn more about them. 
 
-1. How do shipping routes intersect with whale habitat?
-2. How do Gray and Blue Whales intersect with global shipping routes?
+1. How do Gray and Blue Whales intersect with global shipping routes?
+2. How do Gray and Blue Whales intersect with shipping routes in the Los Angeles port.
 3. How do Gray whales intersect with global shipping routes depending on the month?
-
 
 
 ## Website
