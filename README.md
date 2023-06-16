@@ -2,6 +2,11 @@
 
 This project aims to visualize gray and blue whale sightings along the West Coast and how they intersect with global shipping density.
 
+## Website
+
+There is one .ipynb file(Whale_Notebook.ipynb). It generates 3 maps that are displayed in my website blog: https://willswebsite.herokuapp.com/whales
+
+
 ## Project Motivation
 
 I am interested in whales and this project was a great way to learn more about them. 
@@ -11,9 +16,7 @@ I am interested in whales and this project was a great way to learn more about t
 3. How do Gray whales intersect with global shipping routes depending on the month?
 
 
-## Website
 
-There is one .ipynb file(Whale_Notebook.ipynb). It generates 3 maps that are displayed in my website blog: https://willswebsite.herokuapp.com/whales
 
 ## Installation:
 Dependencies:
